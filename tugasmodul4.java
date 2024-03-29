@@ -28,6 +28,6 @@ public class tugasmodul4 {
                 System.out.println("Selamat datang di Vending Machine. Mau minum apa?");
                 System.out.print("Masukkan saldo anda: ");
                 saldo = scanner.nextInt();
-                
+        }
                 
 }
