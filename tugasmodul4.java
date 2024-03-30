@@ -76,8 +76,7 @@ public class tugasmodul4 {
                     default:
                                 System.out.println("Pilihan yang anda masukkan tidak valid.");
                 }
-}
- if (pilihan != 9 && saldo >= 0) {
+                if (pilihan != 9 && saldo >= 0) {
                     System.out.print("Apakah anda ingin melanjutkan pembelian? (Ya/Tidak): ");
                     String lanjut = scanner.next();
                     if (lanjut.equalsIgnoreCase("Tidak")) {
